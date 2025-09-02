@@ -1,0 +1,8 @@
+2025-09-02 11:43:42 INFO  LoginTest:16 - ***** Starting LoginTest Case ***** 
+2025-09-02 11:43:42 INFO  LoginTest:22 - Clicked MyAccount link
+2025-09-02 11:43:42 INFO  LoginTest:24 - Click login link
+2025-09-02 11:43:43 INFO  LoginTest:35 - ***** Finished LoginTestCase ***** 
+2025-09-02 12:31:27 INFO  LoginTest:16 - ***** Starting LoginTest Case ***** 
+2025-09-02 12:31:27 INFO  LoginTest:22 - Clicked MyAccount link
+2025-09-02 12:31:27 INFO  LoginTest:24 - Click login link
+2025-09-02 12:31:29 INFO  LoginTest:35 - ***** Finished LoginTestCase ***** 
