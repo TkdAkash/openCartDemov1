@@ -15,8 +15,8 @@
 		<parameter name="browser" value="chrome" />
 		<classes>
 			<class name="testCases.AccountRegisterationTest" />
-			<class name="testCases.LoginTest" />
-			<class name="testCases.TC003_LoginDDT" />
+		<!--  	<class name="testCases.LoginTest" />
+			<class name="testCases.TC003_LoginDDT" /> -->
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->
